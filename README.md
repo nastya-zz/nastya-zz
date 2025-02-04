@@ -4,5 +4,5 @@
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🧑‍💻 Languages: JavaScript, TypeScript</code>
 <code>📦 Tech stack: Vue.js</code>
-<code>💬 telegram: [@nastyaZelenenkaya](https://telegram.me/yev_ayln)</code>
+<code>💬 telegram: [@yev_ayln](https://telegram.me/yev_ayln)</code>
 <code>📫 [zelenenkaya9@gmail.com](mailto:zelenenkaya9@gmail.com)</code>
